@@ -61,13 +61,13 @@ images/
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/your-username/ask-me-anything-flutter.git
+git clone https://github.com/GhBMpr/magic_ball_flutter.git
 ````
 
 2. **Navigate to the project**
 
 ```bash
-cd ask-me-anything-flutter
+cd magic_ball_flutter
 ```
 
 3. **Get dependencies**
